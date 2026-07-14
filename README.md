@@ -16,7 +16,6 @@
 | [TiDB_AgentX](https://github.com/gracelee087/TiDB_AgentX) | Multi-step agentic workflow with vector search (TiDB AgentX Hackathon 2025) |
 | [self-improving-extractor-harness](https://github.com/gracelee087/self-improving-extractor-harness) | Agentic harness: an agent rewrites a rule-based extractor to raise held-out F1, then auto-opens a PR |
 | [Wayfair_Automation](https://github.com/gracelee087/Wayfair_Automation) | 4 LLM-powered **n8n agents** for market intelligence (Extern × Wayfair) |
-| [n8n-workflow](https://github.com/gracelee087/n8n-workflow) | Blog-to-YouTube automation pipeline with n8n |
 | [myeongdong-3d](https://github.com/gracelee087/myeongdong-3d) | GPS walking audio guide in a hand-built 3D Seoul — Gemini writes, ElevenLabs speaks |
 
 ## 📊 Data Science & MLOps
